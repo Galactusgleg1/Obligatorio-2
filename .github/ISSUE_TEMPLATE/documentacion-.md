@@ -1,8 +1,8 @@
 ---
 name: 'documentacion '
 about: reportar un problema / sugerir una mejora
-title: '[DOCUMENTACIÓN]'
-labels: documentación
+title: "[DOCUMENTACIÓN]"
+labels: ''
 assignees: ''
 
 ---
