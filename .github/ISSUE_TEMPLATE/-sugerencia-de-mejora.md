@@ -2,7 +2,7 @@
 name: Sugerencia_de_Mejora
 about: Sugerir una mejora.
 title: mejora
-labels: mejora
+labels: mejoras
 assignees: ''
 
 ---
