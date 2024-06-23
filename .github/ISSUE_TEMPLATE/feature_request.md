@@ -7,14 +7,20 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Descripción de la funcionalidad:**
+Describir claramente la funcionalidad solicitada.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**¿Por que el cambio?:**
+Explicar el porque es necesario el coambio de funcionalidad.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**como se usaria:**
+Describir cómo se utilizará esta funcionalidad.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Beneficios:**
+Que beneficuos se espera obtener.
+
+**Ejemplo/Referencia:**
+Incluir ejemplos o referencias si es necesario.
+
+**Información adicional:**
+Proporcionar informacion adicional si es relevante
