@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-
 **Descripción del bug:**
 Una descripción clara y concisa del bug.
 
