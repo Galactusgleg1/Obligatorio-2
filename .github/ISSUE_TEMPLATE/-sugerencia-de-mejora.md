@@ -1,7 +1,7 @@
 ---
-name: Sugerencia_de_Mejora
+names: Sugerencia_de_Mejora
 about: Sugerir una mejora.
-title: mejora
+titles: mejora
 labels: mejoras
 assignees: ''
 
